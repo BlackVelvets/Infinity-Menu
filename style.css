@@ -6,8 +6,8 @@ body{
   width: 100%;
   margin: auto;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: bottom;
+  align-items: bottom;
   flex-direction: column;
   height: 100%;
   position: relative;    
