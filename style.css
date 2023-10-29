@@ -7,10 +7,10 @@ body{
   margin: auto;
   display: flex;
   justify-content: top;
-  align-items: center;
+  align-items: top;
   flex-direction: column;
   height: 100%;
-  position: relative;    
+  position: sticky;    
 }
 
 .image{
