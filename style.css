@@ -10,7 +10,7 @@ body{
   align-items: bottom;
   flex-direction: column;
   height: 100%;
-  position: relative;    
+  position: fixed;    
 }
 
 .image{
