@@ -19,7 +19,7 @@ body{
 
 /* Next & previous buttons */
 #prev{  
-  position: absolute;
+  position: center;
   top: 43%;
   left: 0;
   cursor: pointer;
@@ -33,7 +33,7 @@ body{
 }
 
 #next{
-  position: absolute;
+  position: center;
   top: 43%;
   right: 0;
   cursor: pointer;
